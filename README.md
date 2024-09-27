@@ -31,3 +31,14 @@ Una herramienta de ofimática es un programa que usas para hacer cosas tipo escr
 |Google Calendar|![calen](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/calen.png)|
 |Google Meet|![pc](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/pc.png)|
 
+
+6 - Que es HTML
+
+Respuesta
+HTML (HyperText Markup Language) es el lenguaje básico que se usa para crear páginas web. Es como el esqueleto de una página, donde defines qué cosas van a aparecer (texto, imágenes, videos) y cómo están organizadas.
+
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+
+
