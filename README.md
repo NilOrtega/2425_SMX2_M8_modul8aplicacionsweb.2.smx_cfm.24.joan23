@@ -23,7 +23,7 @@ Una aplicación web es como una app que usas desde el navegador, sin tener que d
 Respuesta.
 Una herramienta de ofimática es un programa que usas para hacer cosas tipo escribir textos, hacer presentaciones o crear tablas.
 
-|Aplicaciones Visto|
+|Aplicaciones| Visto|
 |---------------:|--------------:|
 |Google Docs|![ttik](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/ttik.png)|                                                                         
 |Google Slides|
