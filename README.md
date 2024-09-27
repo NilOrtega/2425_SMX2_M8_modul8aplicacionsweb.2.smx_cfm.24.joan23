@@ -25,8 +25,8 @@ Una herramienta de ofimática es un programa que usas para hacer cosas tipo escr
 
 |Aplicaciones Visto|
 |---------------:|--------------:|
-|Google Docs|![tikk](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/tikk.png "Titulo opcional de la imagen")
-|Google Slides|![tikk]
+|Google Docs|
+|Google Slides|
 |Google Sheets|
 |Google Calendar|
 |Google Meet|
