@@ -25,11 +25,12 @@ Una herramienta de ofimática es un programa que usas para hacer cosas tipo escr
 
 |Aplicaciones| Visto|
 |---------------:|--------------:|
-|Google Docs|![ttik](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/ttik.png)|                                                                         
-|Google Slides|![ttik](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/ttik.png)|
-|Google Sheets|![ttik](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/ttik.png)|
-|Google Calendar|![calen](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/calen.png)|
-|Google Meet|![pc](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/pc.png)|
+|Google Docs|![ttik]()|                                                                         
+|Google Slides|![ttik]()|
+|Google Sheets|![ttik]()|
+|Google Calendar|![calen]()|
+|Google Meet|![pc]()|
+|...|...|
 
 
 6 - Que es HTML
