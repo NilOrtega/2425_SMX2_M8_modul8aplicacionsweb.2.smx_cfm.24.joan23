@@ -33,7 +33,7 @@ Una herramienta de ofimática es un programa que usas para hacer cosas tipo escr
 |...|...|
 
 
-6 - Que es HTML
+6 - ¿Que es HTML?
 
 Respuesta
 HTML (HyperText Markup Language) es el lenguaje básico que se usa para crear páginas web. Es como el esqueleto de una página, donde defines qué cosas van a aparecer (texto, imágenes, videos) y cómo están organizadas.
@@ -55,4 +55,8 @@ HTML (HyperText Markup Language) es el lenguaje básico que se usa para crear p�
 ```
 
 
+7- ¿Qué es CSS?
+Es un lenguaje utilizado para describir la presentación de un documento escrito en HTML o XML. Es lo que permite dar estilo, diseño y formato a las páginas web, separando el contenido
+
+![8](https://github.com/NilOrtega/2425_SMX2_M8_modul8aplicacionsweb.2.smx_cfm.24.joan23/blob/main/8.png "Titulo opcional de la imagen")
 
