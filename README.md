@@ -25,11 +25,11 @@ Una herramienta de ofimática es un programa que usas para hacer cosas tipo escr
 
 |Aplicaciones| Visto|
 |---------------:|--------------:|
-|Google Docs|![ttik]()|                                                                         
-|Google Slides|![ttik]()|
-|Google Sheets|![ttik]()|
-|Google Calendar|![calen]()|
-|Google Meet|![pc]()|
+|Google Docs|![]()|                                                                         
+|Google Slides|![]()|
+|Google Sheets|![]()|
+|Google Calendar|![]()|
+|Google Meet|![]()|
 |...|...|
 
 
